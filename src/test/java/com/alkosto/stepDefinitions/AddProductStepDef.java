@@ -24,11 +24,12 @@ public class AddProductStepDef {
     }
     @When("User choose a category and subcategory")
     public void userChooseACategoryAndSubcategory() {
-        homeSteps.clicCategory();
+       // homeSteps.clicCategory();
 
     }
     @When("user user choose product")
     public void userUserChooseProduct() {
+        homeSteps.busqueda();
 
     }
     @Then("User can view a message successfully")

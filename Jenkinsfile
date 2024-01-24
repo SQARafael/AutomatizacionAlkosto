@@ -18,7 +18,7 @@ pipeline {
       steps {
           script {
 
-           bat "cd Amazon-CI"
+           
            bat "${GRADLE_HOME}\\gradle build"
 
         }

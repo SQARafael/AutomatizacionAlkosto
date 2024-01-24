@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Serenity report generated 22-11-2023 11:57:54
-=======
-Serenity report generated 24-01-2024 16:31:57
->>>>>>> 28c1070b3a6a308984fb2f8a0c346a22be4733b7
+Serenity report generated 24-01-2024 16:41:16
 
 Test Cases:         2 
 Passed:             0

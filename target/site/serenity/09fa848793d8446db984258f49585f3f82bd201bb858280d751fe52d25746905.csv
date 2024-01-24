@@ -1,3 +1,7 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "Add product to cart Alkosto","Add product success to cart","PENDING","2023-11-17T11:13:23.1905795-05:00[America/Bogota]","0.0","0.39"
+<<<<<<< HEAD
 "Add product to cart Alkosto","Add product success to cart","ERROR","2023-11-22T11:57:02.7513792-05:00[America/Bogota]","0.0","47.65"
+=======
+"Add product to cart Alkosto","Add product success to cart","SUCCESS","2024-01-24T16:31:16.5787628-05:00[America/Bogota]","0.0","37.98"
+>>>>>>> 28c1070b3a6a308984fb2f8a0c346a22be4733b7

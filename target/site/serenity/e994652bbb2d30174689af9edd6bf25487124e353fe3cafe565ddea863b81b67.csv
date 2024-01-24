@@ -1,2 +1,6 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
+<<<<<<< HEAD
 "Add product to cart Alkosto","Add product success to cart","SUCCESS","2023-11-22T11:45:59.0886953-05:00[America/Bogota]","0.0","31.4"
+=======
+"Add product to cart Alkosto","Add product success to cart","SUCCESS","2024-01-24T16:31:16.5787628-05:00[America/Bogota]","0.0","37.98"
+>>>>>>> 28c1070b3a6a308984fb2f8a0c346a22be4733b7
